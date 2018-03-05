@@ -1,0 +1,1 @@
+Small tool to start child process and manipulate it's standards streams, environment variables.

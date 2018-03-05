@@ -1,0 +1,10 @@
+[package]
+name = "cenv"
+version = "0.1.0"
+authors = ["Andrey Bushev <hlam-box@yandex.ru>"]
+
+[dependencies]
+clap = "2"
+tempfile = "2"
+scopeguard = "0.3"
+os_pipe = "0.6"
